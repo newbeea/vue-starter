@@ -1,10 +1,7 @@
-# vue-webpack-boilerplate
+# vue-starter
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
-
-## Documentation
-
-Common topics are discussed in the [docs](http://vuejs-templates.github.io/webpack). Make sure to read it!
+> vuejs vuex vue-router pug scss directive
 
 ## Usage
 
