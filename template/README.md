@@ -1,4 +1,4 @@
-# vue-cli-test
+# vue-starter
 
 > A Vue.js project
 

@@ -1,6 +1,7 @@
 # vue-starter
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+
 > vuejs vuex vue-router pug scss directive
 
 ## Usage
